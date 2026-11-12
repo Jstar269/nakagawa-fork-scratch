@@ -193,3 +193,5 @@ Dedicated to Blitzen: One of the greatest pets you could ever have. A companion 
 An absolute sweetheart.
 
 2012-2026
+
+Live check 3: a head that lags the tip.
