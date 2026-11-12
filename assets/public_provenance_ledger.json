@@ -18561,6 +18561,17 @@
       }
     },
     {
+      "path": "tools/scratch_probe.py",
+      "classification": "project_authored_attested",
+      "evidence": {
+        "source": "docs/provenance/IMPLEMENTATION_PROVENANCE.json",
+        "record_id": "scratch-probe-2026-11-12",
+        "evidence_tier": "S",
+        "authorship": "independent implementation record",
+        "upstream_attribution": null
+      }
+    },
+    {
       "path": "tools/shader_embed.py",
       "classification": "project_authored_attested",
       "evidence": {
