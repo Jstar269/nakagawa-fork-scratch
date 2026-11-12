@@ -1688,6 +1688,14 @@
       }
     },
     {
+      "path": "docs/LIVE_CHECK_PAGE.md",
+      "classification": "reviewed_documentation",
+      "evidence": {
+        "source": "public documentation review",
+        "statement": "generic/public documentation; no private operational evidence"
+      }
+    },
+    {
       "path": "docs/LLE_FIDELITY_ARCHITECTURE.md",
       "classification": "reviewed_documentation",
       "evidence": {
