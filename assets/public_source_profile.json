@@ -1791,6 +1791,7 @@
     "tools/requirements-lock.txt",
     "tools/run_perf_benchmarks.py",
     "tools/scratch_dir.py",
+    "tools/scratch_probe.py",
     "tools/shader_embed.py",
     "tools/sign_release_binaries.ps1",
     "tools/soak_audit.py",
