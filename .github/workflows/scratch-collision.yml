@@ -1,0 +1,11 @@
+name: Scratch collision
+on:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  collide:
+    name: Fork provenance check
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo collision
