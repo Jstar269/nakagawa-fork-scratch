@@ -354,3 +354,5 @@ public issue ([`AGENTS.md`](../AGENTS.md#5-private-and-public-boundaries)).
    attestation** stays red until then. That is expected. Do not include your fork's
    `assets/public_source_profile.json`, `assets/public_provenance_ledger.json` or `PUBLIC_EXPORT.json`
    changes for new paths; for edits to existing files, `make contrib-refresh` is enough.
+
+Scratch fork test: an edit to an existing file.
