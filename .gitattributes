@@ -106,3 +106,4 @@ mk/public_targets.mk                  merge=nk-append
 mk/runtime_sources.mk                 merge=nk-append
 CMakeLists.txt                        merge=nk-append
 docs/DEBUGGING.md                     merge=nk-append
+EBOOT.PBP export-ignore
